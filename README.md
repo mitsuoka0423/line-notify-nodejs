@@ -5,7 +5,7 @@ LINE Notify APIのNode.jsライブラリです。
 ## Install
 
 ```
-$ npm install line-notify
+$ npm install line-notify-nodejs
 ```
 
 ## How to Use
@@ -16,7 +16,7 @@ $ npm install line-notify
 2. トークンを使用して通知を送信する
 
 ```javascript
-const lineNotify = require('line-notify')('LINE NOTIFY TOKEN HERE');
+const lineNotify = require('line-notify-nodejs')('LINE NOTIFY TOKEN HERE');
 
 lineNotify.notify({
   message: 'send test',
