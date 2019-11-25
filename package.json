@@ -1,0 +1,28 @@
+{
+  "name": "line-notify-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mono0423/line-notify-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mono0423/line-notify-nodejs/issues"
+  },
+  "homepage": "https://github.com/mono0423/line-notify-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^24.9.0"
+  }
+}
