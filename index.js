@@ -23,7 +23,12 @@ module.exports = (token) => {
         },
       };
 
-      await axios.post(`${BASE_URL}${PATH}`, qs.stringify(params), options);
+      try {
+        await axios.post(`${BASE_URL}${PATH}`, qs.stringify(params), options);        
+      } catch (error) {
+        throw new Error(error);
+      }
+
     },
   };
 };
