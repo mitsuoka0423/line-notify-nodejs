@@ -1,8 +1,11 @@
 # LINE Notify Node.js
 
-<a href="https://www.buymeacoffee.com/mitsuoka0423"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mitsuoka0423&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
 LINE Notify APIのNode.jsライブラリです。
+
+
+<a href="https://www.buymeacoffee.com/mitsuoka0423"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mitsuoka0423&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="150px" /></a>
+>
+> 開発の励みになりますので、使ってみて便利でしたらコーヒーをご馳走してください
 
 ## Install
 
