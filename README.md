@@ -1,5 +1,11 @@
 # LINE Notify Node.js
 
+> [!WARNING]
+> このリポジトリはLINE Notifyのサービス終了に伴い、アーカイブされます。
+> This repository will be archived due to the closure of the LINE Notify service.
+>
+> > https://notify-bot.line.me/closing-announce
+
 LINE Notify APIのNode.jsライブラリです。
 
 
